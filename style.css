@@ -1,0 +1,210 @@
+
+body {
+font-family: 'Montserrat', sans-serif; 
+}
+p{
+font-size: 1.1em;
+font-family: Manrope;
+color: blue ;
+text-align: center;
+}
+a{family: 'Manrope', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #edebf3;
+}
+em{
+color: #f2a5fc;
+font-family: futura;
+}
+h1{
+color: #f2a5fc;
+font-size: 3.5em;
+font-family: helvetica;
+font-style: italic;
+text-align:center;
+text-decoration: none;
+font-family: 'manrope', sans-serif;}
+
+h2{
+color:#ebeaf1;
+}    
+
+header, footer {
+    background-color: #525158;
+    color: white;
+    text-align: center;
+    padding: 1em 0;
+}
+
+main {
+    padding: 2em;
+}
+
+section {
+    margin-bottom: 2em;
+}
+
+a {
+    color: #0066cc;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+form label {
+    margin-top: 1em;
+}
+
+form input, form textarea, form button {
+    padding: 0.5em;
+    margin-top: 0.5em;
+}
+
+form button {
+    background-color: #333;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+form button:hover {
+    background-color: #555;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+}
+
+nav ul li {
+    margin: 0 1em;
+}
+
+nav ul li a {
+    
+    text-decoration: none;
+    font-weight: bold;
+}
+
+nav ul li a:hover {
+    text-decoration: underline;
+}
+
+main {
+    padding: 2em;
+    max-width: 800px;
+    margin: auto;
+    background: white;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+section#cv img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    display: block;
+    margin: 1em auto;
+}
+
+.button {
+    display: inline-block;
+    padding: 0.75em 1.5em;
+    background-color: #333;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    margin-top: 1em;
+    text-align: center;
+}
+
+.button i {
+    margin-right: 0.5em;
+}
+
+.button:hover {
+    background-color: #555;
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 1em 0;
+    margin-top: 2em;
+}
+
+footer a {
+    color: white;
+    margin: 0 0.5em;
+}
+
+footer p {
+    color: white;
+}
+
+footer a:hover {
+    color: #ddd;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+form label {
+    margin-top: 1em;
+}
+
+form input, form textarea, form button {
+    padding: 0.5em;
+    margin-top: 0.5em;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+form button {
+    background-color: #333;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+form button:hover {
+    background-color: #555;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+header {
+    background: linear-gradient(to right, #4a90e2, #50a3a2);
+    color: white;
+    padding: 1em 0;
+    text-align: center;
+    position: relative;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+}
+
+.hero {
+    text-align: center;
+    padding: 3em 0;
+    background-color: rgba(0, 0, 0, 0.1);
+}
+
